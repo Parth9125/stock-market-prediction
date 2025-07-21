@@ -66,11 +66,6 @@ python main.py
 
 ---
 
-## 📷 GUI Preview
-
-*(Include screenshots here after running the app and capturing images.)*
-
----
 
 ## 📊 Project Structure
 
